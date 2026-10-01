@@ -25,6 +25,6 @@ An object-oriented C++ program developed as part of a programming assignment, de
 ## Compilation and Execution
 
 
-g++ -o department main.cpp
+g++ -o department firstpart.cpp
 
 ./department
